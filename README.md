@@ -1,4 +1,7 @@
-## Hi there 👋
+# Thomas Newman 👋
+### Computer Engineering student at YorkU
+
+I love coding, gaming, working with circuits, and spending long hours at the library (can't forget about sleeping)! 
 
 <!--
 **oop1-10/oop1-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
