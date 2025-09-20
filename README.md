@@ -3,7 +3,7 @@
 
 I love coding, gaming, working with circuits, and spending long hours at the library (can't forget about sleeping)! 
 
-$$$See my projects below!
+### See my projects below!
 
 1. [Personal Website](https://github.com/oop1-10/oop1-10.github.io)
 2. [YorkU WebRing](https://github.com/oop1-10/webring)
